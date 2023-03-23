@@ -1,0 +1,84 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.6rem;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    
+    
+}
+
+.calculator {
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 750px;
+    padding: 20px;
+}
+
+.calculator form {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+}
+
+.calculator .data {
+    padding: 20px;
+    
+}
+
+.data input {
+    width: 150px;
+}
+
+.calculator input {
+    border: 1px solid lightgray;
+    box-shadow: 
+    inset 0 1px 2px rgba(0,0,0,0.2), 
+    0 -1px 1px #FFF, 
+    0 1px 0 #FFF;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 1.6rem;
+    padding: 5px 10px;
+    margin: 10px 20px;
+    outline: none;
+    display: flex;
+    align-items: center;
+    
+}
+
+.calculator .radio-option {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: left;
+    margin: 10px;
+    /* justify-content: center; */
+
+    
+}
+
+.calculator label {
+    font-size: 1.6rem;
+    line-height: 3rem;
+    display: flex;
+    align-items: center;
+
+}
+
+.calculator .radio input {
+    margin: 0 10px;
+    width: unset;
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    margin: 10px 20px;
+}
+
+.calculator button {
+    padding: 5px 10px;
+    margin: 10px 20px;
+}
