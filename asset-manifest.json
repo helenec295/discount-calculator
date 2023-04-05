@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/discount-calculator/static/css/main.cdbe78b8.css",
-    "main.js": "/discount-calculator/static/js/main.ea6fb070.js",
+    "main.css": "/discount-calculator/static/css/main.c53745a3.css",
+    "main.js": "/discount-calculator/static/js/main.06005062.js",
+    "static/media/sale.jpg": "/discount-calculator/static/media/sale.05dcafc8efaf0e652fc4.jpg",
     "index.html": "/discount-calculator/index.html",
-    "main.cdbe78b8.css.map": "/discount-calculator/static/css/main.cdbe78b8.css.map",
-    "main.ea6fb070.js.map": "/discount-calculator/static/js/main.ea6fb070.js.map"
+    "main.c53745a3.css.map": "/discount-calculator/static/css/main.c53745a3.css.map",
+    "main.06005062.js.map": "/discount-calculator/static/js/main.06005062.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdbe78b8.css",
-    "static/js/main.ea6fb070.js"
+    "static/css/main.c53745a3.css",
+    "static/js/main.06005062.js"
   ]
 }
