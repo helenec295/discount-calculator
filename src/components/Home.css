@@ -11,10 +11,9 @@
 }
 
 .calculator {
-    margin-top: 20px;
     border: 1px solid black;
-    width: 750px;
-    padding: 20px;
+    width: 400px;
+    padding: 2rem;
 }
 
 .calculator form {
@@ -25,12 +24,16 @@
 }
 
 .calculator .data {
-    padding: 20px;
-    
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    padding-left: 2rem;
 }
 
 .data input {
-    width: 150px;
+    width: 100px;
+    
 }
 
 .calculator input {
